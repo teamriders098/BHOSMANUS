@@ -2,4 +2,5 @@ L.sh
 I.sh
 l.sh
 i.sh
-.git
+*.git
+*.git*
