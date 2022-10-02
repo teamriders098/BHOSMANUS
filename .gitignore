@@ -2,5 +2,6 @@ L.sh
 I.sh
 l.sh
 i.sh
-*.git
-*.git*
+.gitignore
+.gitattribute
+.gitattributes
