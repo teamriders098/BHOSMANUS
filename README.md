@@ -25,7 +25,7 @@
      
  <p align="center">        
 <a href="https://github.com/FantoX001">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/FantoX001.visitor-badge&left_text=Total%20Repo%20Visitors">
+    <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/FantoX001.visitor-badge&left_text=Total%20Profile%20Visitors">
   </a>
 </br>
       
