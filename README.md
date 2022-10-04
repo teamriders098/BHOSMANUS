@@ -14,6 +14,7 @@
     <img src="https://img.shields.io/github/forks/teamriders098/BHOSMANUS?label=Fork&style=social">
     
     
+<p align="center">
   <a href="https://github.com/teamriders098/BHOSMANUS/stargazers">
     <img src="https://img.shields.io/github/stars/teamriders098/BHOSMANUS?style=social">
   </a>
