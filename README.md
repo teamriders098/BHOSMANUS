@@ -10,8 +10,8 @@
   Hello Darling ✨, I am "BhosManus" a WhatsApp bot made by Pika to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support.
 
 <p align="center">
-  <a href="https://github.com//teamriders098/BHOSMANUS/fork">
-    <img src="https://img.shields.io/github/forks//teamriders098/BHOSMANUS?label=Fork&style=social">
+  <a href="https://github.com/teamriders098/BHOSMANUS/fork">
+    <img src="https://img.shields.io/github/forks/teamriders098/BHOSMANUS?label=Fork&style=social">
     
     
   <a href="https://github.com/teamriders098/BHOSMANUS/stargazers">
@@ -21,7 +21,8 @@
 <p align="center">
   <a href="https://github.com/FantoX001/Miku-MD">
     <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/FantoX001/Miku-MD.visitor-badge&left_text=Total%20Repo%20Visits">
-    
+  </a>
+   
     
 <a href="https://github.com/FantoX001">
     <img src="(https://visitor-badge.glitch.me/badge?page_id=https://github.com/FantoX001/Shikimori-MD.visitor-badge&left_text=Total%20Repo%20Visitors)">
