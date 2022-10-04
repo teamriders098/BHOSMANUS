@@ -14,19 +14,18 @@
     <img src="https://img.shields.io/github/forks/teamriders098/BHOSMANUS?label=Fork&style=social">
     
     
-<p align="center">
   <a href="https://github.com/teamriders098/BHOSMANUS/stargazers">
     <img src="https://img.shields.io/github/stars/teamriders098/BHOSMANUS?style=social">
   </a>
 
-<p align="center">
+      <p align="center">
   <a href="https://github.com/FantoX001/Miku-MD">
     <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/FantoX001/Miku-MD.visitor-badge&left_text=Total%20Repo%20Visits">
-  </a>
-   
+     </a>
     
+   <p align="center">
 <a href="https://github.com/FantoX001">
-    <img src="(https://visitor-badge.glitch.me/badge?page_id=https://github.com/FantoX001/Miku-MD.visitor-badge&left_text=Total%20Repo%20Visitors)">
+    <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/FantoX001.visitor-badge&left_text=Total%20Repo%20Visitors">
   </a>
 </br>
       
