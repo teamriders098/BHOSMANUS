@@ -10,12 +10,12 @@
   Hello Darling ✨, I am "BhosManus" a WhatsApp bot made by Pika to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support.
 
 <p align="center">
-  <a href="https://github.com/Pika4O4/Anya-pika/fork">
-    <img src="https://img.shields.io/github/forks/Pika4O4/Anya-pika?label=Fork&style=social">
+  <a href="https://github.com//teamriders098/BHOSMANUS/fork">
+    <img src="https://img.shields.io/github/forks//teamriders098/BHOSMANUS?label=Fork&style=social">
     
     
-  <a href="https://github.com/Pika4O4/Anya/stargazers">
-    <img src="https://img.shields.io/github/stars/Pika4O4/Anya-Pika?style=social">
+  <a href="https://github.com/teamriders098/BHOSMANUS/stargazers">
+    <img src="https://img.shields.io/github/stars/teamriders098/BHOSMANUS?style=social">
   </a>
 
 <p align="center">
