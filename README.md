@@ -1,5 +1,4 @@
-<p align="center">
-   <a href= "https://github.com/Pika4O4">
+
  
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=A020F0&lines=࿐𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+𝐁𝐇𝐎𝐒𝐌𝐀𝐍𝐔𝐒+𝐁𝐘+𝐔𝐧𝐤𝐧𝐨𝐰𝐧𝐑𝐢𝐝𝐞𝐫༒4O4࿐+❤️)]
    
@@ -20,7 +19,7 @@
 
 <p align="center">       
   <a href="https://github.com/FantoX001/Miku-MD">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/teamriders098/BHOSMANUS.visitor-badge&left_text=Total%20Repo%20Visits">
+    <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/FantoX001/Miku-MD.visitor-badge&left_text=Total%20Repo%20Visits">
     
      
  <p align="center">        
