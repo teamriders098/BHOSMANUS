@@ -5,6 +5,7 @@
 </p>
 <h1 align="center"> 𝗕𝗵𝗼𝘀𝗠𝗮𝗻𝘂𝘀 𝗕𝘆 𝗨𝗻𝗸𝗻𝗼𝘄𝗻𝗥𝗶𝗱𝗲𝗿❤️
 </h1>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/teamriders098/BHOSMANUS)
 <p align="center"> 
   Hello Darling ✨, I am "BhosManus" a WhatsApp bot made by Pika to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support.
 
